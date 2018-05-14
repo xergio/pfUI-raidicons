@@ -6,7 +6,7 @@ BRING BACK THE ORIGINAL RAID ICONS TO pfUI ಠ_ಠ
 1. Download **[Latest Version](https://github.com/xergio/pfUI-raidicons/archive/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder "pfUI-raidicons-master" to "pfUI-raidicons" (remove the "-master" part)
-4. Copy/move "pfUI-raidicons" into Wow-Directory\Interface\AddOns
+4. Copy/move "pfUI-raidicons" folder into Wow-Directory\Interface\AddOns
 5. Restart WoW
 
 ## Preview
