@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [raidicons]
-## Author: Gio
+## Author: Gio (Gios-Elysium)
 ## Notes: Original raid icons for pfUI
 ## Version: 1.0
 ## Dependencies: pfUI
